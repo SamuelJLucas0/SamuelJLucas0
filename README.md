@@ -7,13 +7,9 @@
   <a href="https://www.credly.com/users/samuel-juarez.f38478c9"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"></a>
 </p>
 
-## Sobre mí
-
-Estudiante de Ingeniería de Software en la Universidad Autónoma de Querétaro.
-
-- Me apasiona el desarrollo full stack: construir productos completos, desde la base de datos hasta la interfaz.
-- Me interesa la ciberseguridad y sigo aprendiendo para que lo que construyo sea seguro desde el diseño.
-- Trabajo en Linux a diario y administro un servidor con Arch Linux.
+<p align="center">
+  <img src="assets/terminal.svg" alt="Samuel Juárez Lucas, estudiante de Ingeniería de Software en la UAQ. Intereses: desarrollo full stack, ciberseguridad y Linux (administra un servidor con Arch Linux)." width="100%">
+</p>
 
 ## Proyectos destacados
 
@@ -99,6 +95,10 @@ Estudiante de Ingeniería de Software en la Universidad Autónoma de Querétaro.
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SamuelJLucas0&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=f0f6fc&icon_color=3fb6e8&text_color=9fb3c8&border_color=30363d&locale=es" alt="Estadísticas de GitHub">
   <img height="165" src="https://streak-stats.demolab.com?user=SamuelJLucas0&locale=es&background=0d1117&border=30363d&stroke=30363d&ring=3fb6e8&fire=3fb6e8&currStreakNum=f0f6fc&sideNums=f0f6fc&currStreakLabel=3fb6e8&sideLabels=9fb3c8&dates=6e7681" alt="Racha de contribuciones">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SamuelJLucas0/SamuelJLucas0/output/pacman-contribution-graph-dark.svg" alt="Pac-Man recorriendo la gráfica de contribuciones" width="100%">
 </p>
 
 <p align="center"><sub>Próximamente: página con mis actividades y proyectos.</sub></p>
