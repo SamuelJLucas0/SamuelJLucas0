@@ -80,15 +80,32 @@
 
 ## Certificaciones
 
-| Insignia | Emisor |
-|---|---|
-| Introduction to Cybersecurity | Cisco |
-| Networking Basics | Cisco |
-| Networking Devices and Initial Configuration | Cisco |
-| English for IT 1 | Cisco |
-| Cloud Foundations | AWS Academy |
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="20%">
+      <a href="https://www.credly.com/badges/fc6921fb-8a94-49df-ae41-bd8b43020659"><img src="assets/insignias/cisco-ciberseguridad.png" width="110" alt="Introduction to Cybersecurity · Cisco"></a><br>
+      <sub><b>Introduction to Cybersecurity</b><br>Cisco</sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <a href="https://www.credly.com/badges/218ef11e-e7e6-43de-86e1-e07a0ea7518a"><img src="assets/insignias/cisco-networking-basics.png" width="110" alt="Networking Basics · Cisco"></a><br>
+      <sub><b>Networking Basics</b><br>Cisco</sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <a href="https://www.credly.com/badges/f3421ab0-abd3-4715-8b60-895c66d8b224"><img src="assets/insignias/cisco-networking-devices.png" width="110" alt="Networking Devices and Initial Configuration · Cisco"></a><br>
+      <sub><b>Networking Devices and Initial Configuration</b><br>Cisco</sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <a href="https://www.credly.com/badges/9933d780-9c58-42a7-ba21-c64b2d4369b1"><img src="assets/insignias/cisco-english-it.png" width="110" alt="English for IT 1 · Cisco"></a><br>
+      <sub><b>English for IT 1</b><br>Cisco</sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <a href="https://www.credly.com/badges/01fe9038-57e1-4cf8-9563-09dd7fa8e21d"><img src="assets/insignias/aws-cloud-foundations.png" width="110" alt="Cloud Foundations · AWS Academy"></a><br>
+      <sub><b>Cloud Foundations</b><br>AWS Academy</sub>
+    </td>
+  </tr>
+</table>
 
-[Verificar en Credly](https://www.credly.com/users/samuel-juarez.f38478c9)
+<p align="center"><a href="https://www.credly.com/users/samuel-juarez.f38478c9">Ver todas en Credly</a></p>
 
 ## Actividad en GitHub
 
