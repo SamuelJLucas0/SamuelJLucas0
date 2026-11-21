@@ -74,12 +74,8 @@
 ## Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,express,vue,react,tailwind&perline=8" alt="JavaScript, TypeScript, Python, Node.js, Express, Vue, React, Tailwind"><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,express,vue,react,tailwind&perline=8" alt="JavaScript, TypeScript, Python, Node.js, Express, Vue, React, Tailwind"><img src="assets/claude-icon.svg" height="48" alt="Claude"><br>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,arch,linux,aws,azure,cloudflare,docker,git&perline=11" alt="PostgreSQL, MySQL, MongoDB, Supabase, Arch Linux, Linux, AWS, Azure, Cloudflare, Docker, Git">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
 </p>
 
 ## Certificaciones
