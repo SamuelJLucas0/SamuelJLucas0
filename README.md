@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Samuel Juárez Lucas · Desarrollador full stack · Ciberseguridad · Linux" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3FB6E8&center=true&vCenter=true&width=600&height=40&lines=Desarrollo+full+stack;Backend+y+nube;Ciberseguridad;Administraci%C3%B3n+de+Linux" alt="Desarrollo full stack · Backend y nube · Ciberseguridad · Administración de Linux">
+  <img src="assets/banner-qro.svg" alt="Samuel Juárez Lucas · Full stack + ciberseguridad · Querétaro, México" width="100%">
 </p>
 
 <p align="center">
@@ -13,7 +9,7 @@
 
 ## Sobre mí
 
-Estudiante de Ingeniería en Informática en la Universidad Autónoma de Querétaro.
+Estudiante de Ingeniería de Software en la Universidad Autónoma de Querétaro.
 
 - Me apasiona el desarrollo full stack: construir productos completos, desde la base de datos hasta la interfaz.
 - Me interesa la ciberseguridad y sigo aprendiendo para que lo que construyo sea seguro desde el diseño.
